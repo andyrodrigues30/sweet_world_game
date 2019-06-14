@@ -1,0 +1,35 @@
+[
+    {
+        "Name of asset": "Noto Emoji Oreo 1f60b.svg",
+        "Source" : "https://commons.wikimedia.org/wiki/File:Noto_Emoji_Oreo_1f60b.svg",
+        "Licence": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Name of asset": "Noto Emoji Oreo 1f345.svg",
+        "Source" : "https://commons.wikimedia.org/wiki/File:Noto_Emoji_Oreo_1f345.svg",
+        "Licence": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Name of asset": "Noto Emoji Oreo 1f369.svg",
+        "Source" : "https://commons.wikimedia.org/wiki/File:Noto_Emoji_Oreo_1f369.svg",
+        "Licence": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Name of asset": "Noto Emoji Oreo 1f3c6.svg",
+        "Source" : "https://commons.wikimedia.org/wiki/File:Noto_Emoji_Oreo_1f3c6.svg",
+        "Licence": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Name of asset": "crash_sound.flac",
+        "Source" : "https://opengameart.org/content/stop",
+        "Licence": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+        "Name of asset": "ping_sound.wav",
+        "Source" : "https://opengameart.org/content/point-bell",
+        "Licence": [
+            "https://creativecommons.org/publicdomain/zero/1.0/",
+            "https://opengameart.org/content/oga-by-30-faq"
+        ]
+    }
+]
